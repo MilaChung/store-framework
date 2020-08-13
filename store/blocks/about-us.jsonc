@@ -1,7 +1,8 @@
 {
     "store.custom#about-us": {
       "blocks": [
-        "tab-layout#home"
+        "tab-layout#home",
+        "iframe"
       ]
     },
 
