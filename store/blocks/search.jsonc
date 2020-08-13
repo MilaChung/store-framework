@@ -1,9 +1,9 @@
 {
   "store.search": {
-    "blocks": ["search-result-layout"]
-  },
+    "blocks": []
+  }
 
-  "search-result-layout": {
+/*   "search-result-layout": {
     "blocks": [
        "search-result-layout.desktop",
        "search-result-layout.mobile",
@@ -58,5 +58,5 @@
 
 "gallery": {
   "blocks": ["product-summary.shelf"]
-}
+} */
 }
