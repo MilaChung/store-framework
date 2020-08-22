@@ -84,14 +84,20 @@
     
     "logo":{
       "props": {
-        "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
+        "title": "Chung Store",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQycZSm2P0AccW-UpWnbBFbfMcyyj_XOqezhQ&usqp=CAU",
+        "width": 80,
+        "height": 80,
+        "mobileWidth": 40,
+        "mobileHeight": 40
       }
   },
 
   "rich-text#header": {
       "props": {
-        "text": "**Free Shipping on orders over $50**",
-        "textPosition": "CENTER"
+        "text": "### News every week!",
+        "textPosition": "CENTER",
+        "textColor": "c-on-chung"
       }
   },
 

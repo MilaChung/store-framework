@@ -1,7 +1,8 @@
 {
     "store.custom#landing": { 
-      "blocks": ["image#landing", "search-result-layout.customQuery"]
-    },
+      "blocks": []
+      //"blocks": ["image#landing", "search-result-layout.customQuery"]
+    }/* ,
     "image#landing": { 
       "props": { 
         "minWidth": "100%",
@@ -68,5 +69,5 @@
     },
     "gallery": {
       "blocks": ["product-summary.shelf"]
-    }
+    } */
   }
